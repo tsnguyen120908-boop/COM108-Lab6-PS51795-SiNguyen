@@ -1,7 +1,7 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
+* **Họ và tên: Trần Sĩ Nguyên** 
+* **Mã sinh viên: PS51795** 
 * **Link Repository cá nhân:** 
 
 > [!NOTE]
