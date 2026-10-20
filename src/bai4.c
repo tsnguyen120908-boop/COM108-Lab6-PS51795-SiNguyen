@@ -89,5 +89,5 @@ int doDiemNong(int a[][MAX_COLS], int row, int col, int hangPeak[], int cotPeak[
             }
         }
     }
-    return ;
+    return soLuong;
 }
